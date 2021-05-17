@@ -1,6 +1,8 @@
-Hey There, 
+# Hey There, 
 
 Welcome!
+
+### Basics 1
 
 |S. No.|English                 |German                 |
 |------|------------------------|-----------------------|
@@ -32,6 +34,6 @@ Welcome!
 
 Thanks for stopping by!
 
-I remain with thanks and regards
-Kaushal Kumar
+I remain with thanks and regards <br/>
+Kaushal Kumar <br/>
 Mechanical Engineer and Mathematics Enthusiast
